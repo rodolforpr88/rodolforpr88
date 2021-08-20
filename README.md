@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rodolfo! Nice to meet you!
 
-I've been working with Ruby on Rails around the last 1 year and half or more, actually I'm studying and working in a new project with NodeJS and Express.
+I'm software developer as backend Ruby on Rails.
 
 ## Find me
 <a href="https://instagram.com/rodolforpr"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
