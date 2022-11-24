@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Rodolfo! Nice to meet you!
 
-I'm software developer as backend Ruby on Rails.
+I'm software developer as backend Ruby on Rails / JavaScript / Elixir
+
+Little observation: When I started to learning the really beginning, I read some Books from https://pragprog.com/ and saw some courses in https://www.udemy.com/, and some challenges (but we can not shared), but my mistakes was to not add them to a git repository, so I don't have them stored, and some of the projects that I'm working we `ca'nt` let public the repository, so I don't have many codes to show, but be free to see some simples codes or send me some challenges that I'll enjoy.
 
 ## Find me
 <a href="https://www.instagram.com/rodolforpr88/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
